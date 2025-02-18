@@ -1,5 +1,11 @@
 * Unprecedented
+  . Never Been Done Before
   . We shouldn't use any predefined parameters in game design instead we should innovate
+  . Should have one familiar concept
 
   - equipments
     . love2d
+
+  - graphics
+    . resizing and zoom might follow the stardew valley [android] method
+    where the game world is seperated from the window
