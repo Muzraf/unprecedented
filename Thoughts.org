@@ -1,3 +1,5 @@
 * Unprecedented
   . We shouldn't use any predefined parameters in game design instead we should innovate
 
+  - equipments
+    . love2d
